@@ -1,10 +1,10 @@
-![](https://github.com/5hojib/5hojib/raw/main/images/Aeon-MLTB.gif)
+![](https://github.com/5hojib/5hojib/raw/main/images/ASA-Mirror-MLTB.gif)
 
 ---
 
-# Aeon Bot
+# ASA-Mirror Bot
 
-Aeon is a streamlined and feature-rich bot designed for efficient deployment and enhanced functionality.
+ASA-Mirror is a streamlined and feature-rich bot designed for efficient deployment and enhanced functionality.
 
 ---
 
@@ -18,7 +18,7 @@ Aeon is a streamlined and feature-rich bot designed for efficient deployment and
 
 ## Deployment Instructions (Heroku)
 
-Follow these steps to deploy Aeon to Heroku:
+Follow these steps to deploy ASA-Mirror to Heroku:
 
 ### 1. Fork and Star the Repository
 - Click the **Fork** button at the top-right corner of this repository.
@@ -69,5 +69,5 @@ This project is licensed under the MIT License. Refer to the [LICENSE](LICENSE) 
 
 ## Acknowledgements
 
-- Special thanks to the original developers of the [Mirror-Leech-Telegram-Bot](https://github.com/anasty17/mirror-leech-telegram-bot).
-- Gratitude to contributors from various repositories whose features have been integrated into Aeon.
+- Special thanks to the developers helped [BROTHER](https://t.me/ASA_MIKATA1).
+- Gratitude to contributors from various repositories whose features have been integrated into ASA-Mirror.
