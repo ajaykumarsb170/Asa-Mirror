@@ -21,12 +21,15 @@ from subprocess import Popen, check_output
 from subprocess import run as srun
 from faulthandler import enable as faulthandler_enable
 
+from aria2p import API
+from aria2p import Client as ariaClient
 from dotenv import load_dotenv, dotenv_values
 from uvloop import install
 from pymongo import MongoClient
 from tzlocal import get_localzone
 from pyrogram import Client as tgClient
 from pyrogram import enums
+from qbittorrentapi import Client as qbClient
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 faulthandler_enable()
